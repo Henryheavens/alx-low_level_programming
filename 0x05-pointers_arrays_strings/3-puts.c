@@ -1,6 +1,5 @@
-3-puts.c
-
 #include "main.h"
+#include <stddef.h>
 /**
  * _puts -  prints a string, followed by a new line, to stdout
  * @str: string to print
